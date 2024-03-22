@@ -1,16 +1,21 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+Guilherme+Campos+%F0%9F%91%8B%F0%9F%8F%BD;Seja+bem+vindo(a)!)](https://git.io/typing-svg)
 
-<!--
-**guilherme-alc/guilherme-alc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div> 
+  <a href="mailto:guilhermealc01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-campos-23ba2924b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://instagram.com/guilhermealc_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### E-mail de contato: guilhermealc01@gmail.com
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-alc&layout=compact)
+ 
+ ### Estudando neste momento:
+![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.net&labelColor=0D1117)&nbsp;
