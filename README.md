@@ -3,7 +3,7 @@
 Tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica de Minas Gerais. Tenho experiência no desenvolvimento de aplicações web utilizando HTML, CSS, Bootstrap, JavaScript e atualmente estudando C# e .NET. Estou sempre atualizando meu GitHub com projetos pessoais, exercícios de programção e trabalhos da faculdade. Fique à vontade para conferir!
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-campos-23ba2924b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-alc/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilhermealc01@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531999124381)
 
