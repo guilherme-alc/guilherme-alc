@@ -20,7 +20,6 @@ Atuo principalmente com .NET e estudando Angular no front-end.
 **Back-end**
 - C# / VB.NET
 - ASP.NET Core
-- Blazor
 - Entity Framework Core
 - Dapper / ADO.NET
 
@@ -31,6 +30,7 @@ Atuo principalmente com .NET e estudando Angular no front-end.
 **Front-end e ferramentas**
 - TypeScript
 - Angular
+- Blazor
 - HTML / CSS
 - Git
 - Figma
